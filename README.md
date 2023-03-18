@@ -1,4 +1,4 @@
-# Into to Time Series 
+# Intro to Time Series 
 
 **Predicting the price of stocks of IBM for the year 2017**
 
