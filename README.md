@@ -1,5 +1,5 @@
-# Intro to Time Series 
+# Introduction to Time Series Forecasting
 
-**Predicting the price of stocks of IBM for the year 2017**
+<sub>Predicting the price of stocks of IBM for the year 2017</sub>
 
 Approach 1: Use of LSTM and GRUs
